@@ -1,5 +1,6 @@
------ALL WORKING USERAGENT----
-COPY AND PASTE YOUR TERMINAL
+• -----ALL WORKING USERAGENT----
+
+• COPY AND PASTE YOUR TERMINAL
 
 
 • TOOLS
@@ -10,4 +11,4 @@ git clone --depth=1 https://github.com/IMRAN-888/UA-X
 && chmod 777 UA
 && ./UA
 
-• GOOD BYE 🫂 👋 
+
