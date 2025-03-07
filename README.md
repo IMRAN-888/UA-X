@@ -4,10 +4,10 @@ COPY AND PASTE YOUR TERMINAL
 
 • TOOLS
 
-rm -rf UA-X
+rm -rf UA-X &&
 git clone --depth=1 https://github.com/IMRAN-888/UA-X
-cd UA-X
-chmod 777 UA
-./UA
+&& cd UA-X
+&& chmod 777 UA
+&& ./UA
 
 • GOOD BYE 🫂 👋 
